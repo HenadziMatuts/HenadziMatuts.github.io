@@ -14,7 +14,7 @@ I'am a software engineer from Minsk, Belarus.
 
 ## 31.08.2018. [Reversing the Neuromancer Article Series Posted][4]
 
-The article series describing reverse-engineering and porting of the «Neuromancer» game (Interplay Productions, 1988, MS-DOS), based on William Gibson novel of the same name. It currently include four publications. The fifth part is being prepared. The actual project could be found on [Github][5]
+The article series describing reverse-engineering and porting of the «Neuromancer» game (Interplay Productions, 1988, MS-DOS), based on William Gibson novel of the same name. It currently includes four publications. The fifth part is being prepared. The actual project could be found on [Github][5]
 
 ## 31.08.2018. [Linux Crypto API Guide Posted][2]
 
