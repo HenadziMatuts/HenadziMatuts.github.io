@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "The Linux Crypto API: Exending and Using (RU)"
+
+desc: The article is a programmer guide on how to use and extend the Linux Kernel Crypto API. First section describes the general Crypto API architecture and provides basic information about the API entry points. Second section is about implementing and testing simple “XOR cipher” in user space. Third section is a close look on algorithm registering structures and functions of Crypto API. It provides a detailed examples on how the algorithm implemented in previous section could be reimplemented and registered in kernel space. The fourth section is about using kernel space crypto both from kernel space and user space. The fifth section provides some hints and tips on using Crypto API.
+
 author: Henadzi Matuts
 date: 2018-02-07
 link: https://habr.com/post/348552/
