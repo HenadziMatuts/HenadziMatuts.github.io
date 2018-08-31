@@ -6,4 +6,8 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
+{% if page.link %}
+  <p class="view">published on <a href="{{ page.link }}">{{ page.link }}</a></p>
+{% endif %}
+
 {{content}}

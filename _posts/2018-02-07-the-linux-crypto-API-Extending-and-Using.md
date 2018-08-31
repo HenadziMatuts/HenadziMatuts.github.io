@@ -3,6 +3,7 @@ layout: post
 title: "The Linux Crypto API: Exending and Using (RU)"
 author: Henadzi Matuts
 date: 2018-02-07
+link: https://habr.com/post/348552/
 ---
 
 # Расширение и использование Linux Crypto API
