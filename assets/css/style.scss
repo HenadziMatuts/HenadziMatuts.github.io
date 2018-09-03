@@ -22,6 +22,15 @@ a {
 
 a:hover, a:focus {
   color:#A00000;
+  font-weight: normal;
+}
+
+h1 a:hover, h1 a:focus {
+  font-weight: bold;
+}
+
+h2 a:hover, h2 a:focus {
+  font-weight: bold;
 }
 
 section {
