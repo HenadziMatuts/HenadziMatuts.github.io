@@ -17,6 +17,11 @@ On this resource you can find my [writings][7] and see the projects I work on.
 
 # What's New?
 
+## 10.09.2018. [An Interview with Troy Miles is Out!][8]
+
+<img src="https://habrastorage.org/webt/vj/fz/ef/vjfzefrqnff2yqsyz9ar97hikdk.jpeg" width="30%" hspace="10" align="left" />
+Talking with Troy Miles, an award winning software developer, speaker, and author with decades of professional experience. Discussing the early days of the Interplay Productions, the «Neuromancer» game creation background and it's development.<br clear="left">
+
 ## 31.08.2018. [Reversing the Neuromancer Article Series Posted][4]
 
 The article series describing reverse-engineering and porting of the «Neuromancer» game (Interplay Productions, 1988, MS-DOS), based on William Gibson novel of the same name. It currently includes four publications. The fifth part is being prepared. The actual project could be found on [Github][5]
@@ -36,3 +41,4 @@ The article text is strongly accompanied by illustrations and code samples. Comp
 [5]: /reuromancer.html
 [6]: http://ntc-contact.by/produktsiya/ustrojstvo-kriptograficheskoj-zashchity-bas
 [7]: /blog
+[8]: /2018/09/10/behind-the-neuromancer-game.html
