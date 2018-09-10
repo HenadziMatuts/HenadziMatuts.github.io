@@ -6,6 +6,7 @@ desc: Talking with Troy Miles, an award winning software developer, speaker, and
 
 author: Henadzi Matuts
 date: 2018-09-10
+link: https://habr.com/post/422625/
 ---
 
 # Behind the «Neuromancer» Game - An Interview with Troy Miles
